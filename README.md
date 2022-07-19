@@ -32,5 +32,7 @@ While a brute-force approach is resource draining, a backtracking search algorit
 Reference:
 
 [1] Gurari, E., 1999. CIS 680: DATA STRUCTURES: Chapter 19: Backtracking Algorithms. Archived from the original on 17 March 2007.
+
 [2] LINDBERG, J., STEIER, M., 2015. Efficiency of the hybrid AC3-tabu search algorithm for solving Sudoku puzzles. DEGREE PROJECT, IN COMPUTER SCIENCE , FIRST LEVEL STOCKHOLM, SWEDEN 2015 . Available from http://www.diva-portal.org/smash/get/diva2:810999/FULLTEXT01.pdf [Accessed 19 September 2021].
+
 [3] Russell, S. and Norvig,P. 2002. Artificial Intelligence: A Modern Approach,Third Edition, P209.Pearson Education, Limited
